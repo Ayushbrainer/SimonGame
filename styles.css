@@ -1,0 +1,86 @@
+body{
+  background-color: #011F3F;
+}
+
+
+.levels{
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+  padding: 4%;
+  margin: auto;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 3rem;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.tiles{
+  text-align: center;
+  padding: 3%;
+  margin: 2%;
+}
+
+.red{
+  display: inline-block;
+  background-color: red;
+  margin: 2.3em;
+  margin-top: 0;
+  border-radius: 2em;
+  border: 10px solid black;
+/*  padding: 3%;*/
+  height: 13em;
+  width: 13em;
+}
+
+.green{
+  display: inline-block;
+  background-color: green;
+  margin: 2.3em;
+  margin-top: 0;
+  border-radius: 2em;
+  border: 10px solid black;
+/*  padding: 3%;*/
+  height: 13em;
+  width: 13em;
+}
+
+.yellow{
+  display: inline-block;
+  background-color: yellow;
+  margin: 2.3em;
+  margin-bottom:0;
+  margin-top: 0;
+  border-radius: 2em;
+  border: 10px solid black;
+/*  padding: 3%;*/
+  height: 13em;
+  width: 13em;
+}
+
+.blue{
+  display: inline-block;
+  background-color: blue;
+  margin:2.3em;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-radius: 2em;
+  border: 10px solid black;
+/*  padding: 3%;*/
+  height: 13em;
+  width: 13em;
+}
+footer{
+  text-align: center;
+  color: #fff;
+  font-size: 2.4rem;
+  font-family: font-family: 'Press Start 2P', cursive;
+}
+
+.foot{
+  font-size: 1.2rem;
+}
